@@ -249,6 +249,3 @@ $$
 
 ---
 
-**Student Signature:** ____________________
-**Date of Submission:** September 22, 2026
-**Evaluation Grade:** ________ / ________
